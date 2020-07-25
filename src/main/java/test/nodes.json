@@ -1,0 +1,5342 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mediouna",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.4577867,
+        "stationId": "5012111457",
+        "longitude": -7.5170337
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Château d'Eau Mediouna",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.4564887,
+        "longitude": -7.5219705,
+        "stationId": "5081943066"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Institut Tarik Ibn Ziad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5353327,
+        "longitude": -7.5745288,
+        "stationId": "5081876415"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Drijat",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5378614,
+        "stationId": "5081886621",
+        "longitude": -7.576704
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Hosna Mohammed VI",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5435625,
+        "longitude": -7.5814724,
+        "stationId": "5033836132"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Olibya (Mohammed VI)",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5467144,
+        "longitude": -7.5841475,
+        "stationId": "5033821624"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lydec Dar Touzani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.549457,
+        "longitude": -7.5870874,
+        "stationId": "5033812377"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Dar Touzani Mohammed VI",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5521219,
+        "longitude": -7.5898638,
+        "stationId": "5033770310"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Morgue Ain Chok",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.555303,
+        "longitude": -7.5927779,
+        "stationId": "4211146981"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marjane Drissia M6",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5618617,
+        "longitude": -7.5946684,
+        "stationId": "21038927"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Souk Laâyoun",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5647266,
+        "stationId": "5033743741",
+        "longitude": -7.5951831
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Garage Allal گراج علال",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5767723,
+        "longitude": -7.5994629,
+        "stationId": "5041543036"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place de la Victoire",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5885726,
+        "longitude": -7.6086805,
+        "stationId": "5071614997"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sidi Maârouf",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5075918,
+        "stationId": "4988181785",
+        "longitude": -7.6576248
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Préfecture Ain Chock",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.520875,
+        "longitude": -7.6521888,
+        "stationId": "2387487893"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre Cul. Socio.",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5263285,
+        "longitude": -7.6502082,
+        "stationId": "5067639207"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "OCP",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5535201,
+        "longitude": -7.644063,
+        "stationId": "5041248109"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "PTT Roudani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5696611,
+        "stationId": "5027061569",
+        "longitude": -7.6437031
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence Nadia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5725279,
+        "longitude": -7.6414902,
+        "stationId": "5041264276"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "BIM Roudani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5852022,
+        "stationId": "5022567358",
+        "longitude": -7.6298855
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Eaux et Forêts",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5881123,
+        "longitude": -7.627233,
+        "stationId": "5022604120"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Consulat Espagne",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5907025,
+        "longitude": -7.6253857,
+        "stationId": "334649216"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hôtel Mouahidin",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5936027,
+        "longitude": -7.6226229,
+        "stationId": "5022636124"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Maréchal",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5946119,
+        "longitude": -7.6196981,
+        "stationId": "3843049043"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Grande Poste",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5926624,
+        "stationId": "5041546508",
+        "longitude": -7.6180642
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Diouri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5700567,
+        "longitude": -7.601331,
+        "stationId": "4987950246"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Derb Foukara",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5660654,
+        "stationId": "456510091",
+        "longitude": -7.6078619
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Derb Bouchentouf",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5685198,
+        "longitude": -7.6038394,
+        "stationId": "5034587752"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sel Blanc",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5632607,
+        "stationId": "5079338779",
+        "longitude": -7.6091624
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Sonna",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5614682,
+        "longitude": -7.6089683,
+        "stationId": "5033681413"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique CNSS Inara",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5405664,
+        "longitude": -7.5966945,
+        "stationId": "3284898224"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Hosna (Boulevard Qods)",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5438102,
+        "longitude": -7.5836647,
+        "stationId": "5033836131"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Préfecture Police Aïn Chock",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5414508,
+        "longitude": -7.5929414,
+        "stationId": "4987092872"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "OFPPT Lahrizi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5396324,
+        "stationId": "5081908781",
+        "longitude": -7.5692272
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Driss Lahrizi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5381155,
+        "longitude": -7.5717972,
+        "stationId": "5081905655"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Espace Kadissia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5367384,
+        "longitude": -7.5740647,
+        "stationId": "5081905646"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Oued Lmakhazin",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5946224,
+        "stationId": "5005949393",
+        "longitude": -7.6228748
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Tacharouk",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5700496,
+        "stationId": "3843048974",
+        "longitude": -7.5225254
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Angle Sahraoui/Joudar",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5656522,
+        "longitude": -7.5289964,
+        "stationId": "5081732232"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Dokkala",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5595381,
+        "longitude": -7.5384917,
+        "stationId": "5081797763"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence El Hamd",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5571943,
+        "longitude": -7.542589,
+        "stationId": "279302232"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Abdelhadi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.555357,
+        "longitude": -7.5471239,
+        "stationId": "5109336974"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay El Falah",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5591392,
+        "stationId": "1755434121",
+        "longitude": -7.5502112
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cinéma El Falah",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5605468,
+        "longitude": -7.5514592,
+        "stationId": "5081781828"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hammam el Hajja",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5692959,
+        "longitude": -7.5597806,
+        "stationId": "5497336418"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Taha",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5755147,
+        "stationId": "5075406435",
+        "longitude": -7.5651383
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Tissir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5726916,
+        "stationId": "5041998495",
+        "longitude": -7.579227
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Chifa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5720321,
+        "stationId": "3843048985",
+        "longitude": -7.585232
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Hay Farah",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5717399,
+        "longitude": -7.5883278,
+        "stationId": "5047379637"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Derb Kabir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5722643,
+        "stationId": "1414114263",
+        "longitude": -7.5956116
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Riad Oulfa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5540495,
+        "stationId": "1849822677",
+        "longitude": -7.7008341
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Riad Oulfa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5561745,
+        "longitude": -7.6974309,
+        "stationId": "5054907709"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Riad Oulfa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5576249,
+        "longitude": -7.695136,
+        "stationId": "5054907930"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ancien Terminus L020",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5567986,
+        "longitude": -7.6912369,
+        "stationId": "5054966005"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hôpital Hay Hassani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5587588,
+        "longitude": -7.6874177,
+        "stationId": "5054965046"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Saâd Lkhir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5656396,
+        "stationId": "5071716914",
+        "longitude": -7.6831314
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sidi Al Khadir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5693457,
+        "stationId": "5066683071",
+        "longitude": -7.683963
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Stade Hay Hassani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5710193,
+        "longitude": -7.6801158,
+        "stationId": "5064895972"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Hassani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5723613,
+        "stationId": "5032217463",
+        "longitude": -7.6770872
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Afghanistan",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5725458,
+        "longitude": -7.6736967,
+        "stationId": "4107749400"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique Sara",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.570176,
+        "stationId": "5081248085",
+        "longitude": -7.6671119
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pépinière Cité de l'Air",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5697432,
+        "longitude": -7.6629328,
+        "stationId": "5081254626"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hammam Nekhla",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5690104,
+        "stationId": "460028053",
+        "longitude": -7.6533996
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Oulmess",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5716635,
+        "stationId": "458761729",
+        "longitude": -7.648258
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Ouadghiri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5636022,
+        "longitude": -7.6331415,
+        "stationId": "5040055712"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Le Pacha",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5638868,
+        "stationId": "332068934",
+        "longitude": -7.6290377
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Rond Point Bachkou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.561496,
+        "longitude": -7.6236049,
+        "stationId": "5034558016"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique Dar Salam",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5619546,
+        "longitude": -7.6187356,
+        "stationId": "3843049013"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Moulay Abdellah",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5618948,
+        "longitude": -7.6141074,
+        "stationId": "5033681414"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Derb Kabir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5721028,
+        "stationId": "5041493339",
+        "longitude": -7.5955335
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Police Gare Routière",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5742664,
+        "longitude": -7.5898087,
+        "stationId": "5047422420"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare Routière",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5752399,
+        "longitude": -7.5887912,
+        "stationId": "4195875489"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Station M'dina Bus 2",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5785583,
+        "longitude": -7.6348646,
+        "stationId": "5011098749"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "APAEI",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5806163,
+        "longitude": -7.6319905,
+        "stationId": "2139416372"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "U.N.F.M.",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5823276,
+        "stationId": "5081602680",
+        "longitude": -7.6303439
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Espace Les Palmiers",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5821197,
+        "longitude": -7.6271671,
+        "stationId": "5081602679"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marché des Fleurs",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5828171,
+        "longitude": -7.6202338,
+        "stationId": "428474227"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Église / Zerktouni",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5829874,
+        "longitude": -7.615765,
+        "stationId": "5081426299"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Casa Voyageurs",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5889711,
+        "stationId": "5056374531",
+        "longitude": -7.5925414
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "OFPPT Bahmad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5876443,
+        "stationId": "428587309",
+        "longitude": -7.5938893
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Caserne Âin Borja",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.586778,
+        "longitude": -7.5911737,
+        "stationId": "5056374533"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Le Nid",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5864629,
+        "stationId": "5056384741",
+        "longitude": -7.5864288
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Acima Ibn Tachfine",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5842889,
+        "longitude": -7.5723307,
+        "stationId": "4000749319"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Atlas Copco",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5884574,
+        "stationId": "5056454216",
+        "longitude": -7.5727254
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Foum Lahcen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5913483,
+        "stationId": "5056545807",
+        "longitude": -7.5699603
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Croisement Route Yaâta",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5924465,
+        "longitude": -7.5650831,
+        "stationId": "5031104858"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidences Alassil",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5931733,
+        "longitude": -7.5616602,
+        "stationId": "3715436035"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "CNSS Dar Laman",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5936341,
+        "stationId": "5622993014",
+        "longitude": -7.5575291
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Dar Laman",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.594011,
+        "stationId": "5316881644",
+        "longitude": -7.5544073
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Rahal Traiteur",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5937268,
+        "stationId": "5033995306",
+        "longitude": -7.5451781
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence Al Fadl",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5989938,
+        "longitude": -7.5330363,
+        "stationId": "5051917110"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Tribunal Âin Sbaâ",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5994755,
+        "longitude": -7.5309563,
+        "stationId": "4760867683"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marjane Aïn Sbaâ",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5957052,
+        "longitude": -7.5302179,
+        "stationId": "5032036981"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cté Police Bernoussi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6029424,
+        "longitude": -7.5196292,
+        "stationId": "458761367"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Tariq",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6080886,
+        "stationId": "5032520810",
+        "longitude": -7.5146041
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pst. Pointage",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6106062,
+        "stationId": "5062176974",
+        "longitude": -7.5065137
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bernoussi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6138369,
+        "stationId": "5051329578",
+        "longitude": -7.5029644
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lissasfa لساسفة",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5312356,
+        "longitude": -7.6740836,
+        "stationId": "5005720475"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée de Lissasfa - Route d'El Jadida",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5341904,
+        "longitude": -7.6693982,
+        "stationId": "5079520279"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "ESITH",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5386745,
+        "longitude": -7.6615805,
+        "stationId": "332202617"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Facultés - Route d'El Jadida",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.543063,
+        "longitude": -7.6541232,
+        "stationId": "5010095975"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cité Plateau",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5679607,
+        "stationId": "2126803379",
+        "longitude": -7.6365962
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Doha",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5702818,
+        "stationId": "4986938779",
+        "longitude": -7.6358461
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Fiat Abdelmoumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5698378,
+        "longitude": -7.6258918,
+        "stationId": "5045854785"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Lahlou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5721447,
+        "stationId": "408425279",
+        "longitude": -7.6224813
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée El Hoda",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5695693,
+        "longitude": -7.6122025,
+        "stationId": "428476632"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Rachad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5664395,
+        "stationId": "5033697050",
+        "longitude": -7.6093947
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare Routière 2",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5763453,
+        "longitude": -7.5894905,
+        "stationId": "2138248623"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Kissariat Hay Mohammadi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5851541,
+        "longitude": -7.5628088,
+        "stationId": "5056338580"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Site echocha POTEAU metalique",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5824315,
+        "longitude": -7.6407525,
+        "stationId": "5005770116"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "PTT Bir Anzarane",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.579869,
+        "longitude": -7.6367339,
+        "stationId": "5064503733"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pasteur",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5742025,
+        "stationId": "1261487479",
+        "longitude": -7.6257195
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Faculté Médecine",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.575866,
+        "longitude": -7.6218965,
+        "stationId": "5006050038"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre Addiction",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5763773,
+        "longitude": -7.6187764,
+        "stationId": "5006051428"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Mohammed V",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5786728,
+        "longitude": -7.6152219,
+        "stationId": "428476505"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Régie de Tabac",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5756242,
+        "longitude": -7.6101927,
+        "stationId": "5041570433"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Maâti Ben Saleh",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5725963,
+        "longitude": -7.6084821,
+        "stationId": "5041570432"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bni M'guild",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5712391,
+        "stationId": "456519354",
+        "longitude": -7.6046684
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Hay Farah",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5715335,
+        "longitude": -7.5881895,
+        "stationId": "5047379636"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Chifa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5719632,
+        "stationId": "3843048984",
+        "longitude": -7.5847241
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Tissir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5725704,
+        "stationId": "5041998494",
+        "longitude": -7.5790562
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Taha",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5754432,
+        "stationId": "5075406434",
+        "longitude": -7.5653489
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bournazel",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5700496,
+        "stationId": "459487392",
+        "longitude": -7.5576067
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Sadri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5712158,
+        "stationId": "5033899106",
+        "longitude": -7.5557687
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ifiam",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5725005,
+        "stationId": "4987010235",
+        "longitude": -7.5537988
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hmara",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5763201,
+        "stationId": "3525295871",
+        "longitude": -7.5491633
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Britchia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.576582,
+        "longitude": -7.5466519,
+        "stationId": "4987006317"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre de Santé SMJ",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.580017,
+        "longitude": -7.5443526,
+        "stationId": "2941139197"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lalla Assma 2",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5783045,
+        "stationId": "5073349604",
+        "longitude": -7.5422405
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Doha",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5705431,
+        "stationId": "4986938780",
+        "longitude": -7.6359148
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cité Plateau",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5679764,
+        "stationId": "5074894941",
+        "longitude": -7.6367033
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Oulmess",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5717716,
+        "stationId": "5027061571",
+        "longitude": -7.6483464
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Messagerie CTM",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5681384,
+        "stationId": "5081183100",
+        "longitude": -7.6549742
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique CIL",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5689942,
+        "stationId": "5081218257",
+        "longitude": -7.6609777
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique Sara",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5703361,
+        "stationId": "5081248081",
+        "longitude": -7.6674213
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Bouchiki",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5715589,
+        "longitude": -7.6759632,
+        "stationId": "2186506441"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Tafoukt",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.570698,
+        "stationId": "5071754638",
+        "longitude": -7.6779493
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "ISTA Afghanistan",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5687134,
+        "longitude": -7.6822153,
+        "stationId": "5064895977"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay El Baraka",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.567887,
+        "stationId": "5064895978",
+        "longitude": -7.6840946
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Salmia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5383886,
+        "longitude": -7.5542294,
+        "stationId": "5109328001"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Basma",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5388632,
+        "stationId": "5109328005",
+        "longitude": -7.5561317
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Stade Tissima",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5444194,
+        "stationId": "4987058397",
+        "longitude": -7.5620069
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Souria",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5463871,
+        "stationId": "3827124156",
+        "longitude": -7.5641546
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Charles Dégo",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5436637,
+        "longitude": -7.5686386,
+        "stationId": "4987050040"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ouad Dahab",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5409364,
+        "stationId": "3769564809",
+        "longitude": -7.5732198
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Arabia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5392127,
+        "stationId": "4987053806",
+        "longitude": -7.5761826
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Jamila",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5421362,
+        "stationId": "3827124153",
+        "longitude": -7.5796727
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 147,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Rachad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5664533,
+        "stationId": "5033697049",
+        "longitude": -7.6092255
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bureau Police Anassi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5901675,
+        "longitude": -7.4937278,
+        "stationId": "1849433331"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Anassi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5917028,
+        "stationId": "1849433378",
+        "longitude": -7.4903424
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Forêt Verte",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5687783,
+        "stationId": "5081756582",
+        "longitude": -7.5341981
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Groupe 4 Moulay Rachid",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5681263,
+        "longitude": -7.5385074,
+        "stationId": "5081756583"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Faculté de Ben M'Sick",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5661123,
+        "longitude": -7.543181,
+        "stationId": "3843048975"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 153,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay El Massira",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5634624,
+        "stationId": "5081677396",
+        "longitude": -7.5477156
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 154,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cafe Challoukh",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5572223,
+        "stationId": "5041943657",
+        "longitude": -7.5582001
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Tribunal Administratif",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.559986,
+        "longitude": -7.5663428,
+        "stationId": "4987027260"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Ibn Zohr",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5579703,
+        "longitude": -7.5696599,
+        "stationId": "3843069858"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Complexe K. Zebdi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5566502,
+        "longitude": -7.5718102,
+        "stationId": "4987031823"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Frères Safa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5522282,
+        "longitude": -7.584162,
+        "stationId": "460013217"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lydec 6 Nov",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5519015,
+        "stationId": "5040052835",
+        "longitude": -7.5871714
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 160,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Orphelinat Âin Choc",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5494281,
+        "longitude": -7.594892,
+        "stationId": "5041526772"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 161,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cinéma Sahra",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5506632,
+        "stationId": "3827125887",
+        "longitude": -7.5992412
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Andalouss",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5537443,
+        "longitude": -7.6038601,
+        "stationId": "3843048995"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Station M'dina Bus 2",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5785104,
+        "longitude": -7.6345466,
+        "stationId": "5074861626"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "PTT Bir Anzarane",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5799928,
+        "longitude": -7.636617,
+        "stationId": "5064503732"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mâarif",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5827079,
+        "stationId": "5072298318",
+        "longitude": -7.6405711
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Quartier Hôpitaux",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5769874,
+        "longitude": -7.6244482,
+        "stationId": "428473247"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pasteur",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5740863,
+        "stationId": "5007203884",
+        "longitude": -7.6259262
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 168,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Fiat Abdelmoumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5698486,
+        "longitude": -7.6260807,
+        "stationId": "5045854786"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Bachkou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5581622,
+        "longitude": -7.6297833,
+        "stationId": "5034558014"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 170,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare L'Oasis",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5545671,
+        "stationId": "5034552210",
+        "longitude": -7.6312156
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sports Plazza",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5460824,
+        "stationId": "1746196157",
+        "longitude": -7.63172
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Douar Khouadra",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5407072,
+        "stationId": "5034528784",
+        "longitude": -7.6311904
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Technoparc",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5405412,
+        "stationId": "6204178204",
+        "longitude": -7.6392598
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre Cul. Socio.",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5263587,
+        "longitude": -7.6502917,
+        "stationId": "5067639206"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 175,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Préfecture Ain Chock",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5208895,
+        "longitude": -7.652284,
+        "stationId": "2135428292"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bouskoura",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.4308453,
+        "stationId": "3330925471",
+        "longitude": -7.6397576
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 177,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sfax",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5885518,
+        "longitude": -7.6107464,
+        "stationId": "1129495637"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place de la Victoire",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5885798,
+        "longitude": -7.6088431,
+        "stationId": "5012138012"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 179,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Oliverie",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5858014,
+        "stationId": "456479907",
+        "longitude": -7.640637
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence Rio",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5916333,
+        "longitude": -7.6420154,
+        "stationId": "5029883710"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "St-Vélodrome",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5904491,
+        "stationId": "1129440771",
+        "longitude": -7.6460913
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Jardin Val d'Anfa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5907312,
+        "longitude": -7.6530241,
+        "stationId": "5029883683"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Souk Bourgogne",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5994156,
+        "stationId": "5079414939",
+        "longitude": -7.6424775
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 184,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Laâouina Lharra",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6002812,
+        "longitude": -7.6396514,
+        "stationId": "5318393686"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Le Lac",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6025406,
+        "stationId": "4987087177",
+        "longitude": -7.6359929
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 186,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Houphouët Boigny",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5987759,
+        "longitude": -7.6147634,
+        "stationId": "5024337722"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Concorde",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5962557,
+        "stationId": "5005981354",
+        "longitude": -7.6221355
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Oued Lmakhazin",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5947143,
+        "stationId": "5079875650",
+        "longitude": -7.6236863
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "ANCFCC Rachidi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5904014,
+        "stationId": "5005991349",
+        "longitude": -7.6205263
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place de Mers Sultan",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.587907,
+        "longitude": -7.6173367,
+        "stationId": "5486251484"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Nouakchott",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5876745,
+        "stationId": "5486251485",
+        "longitude": -7.6138308
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Garage Allal گراج علال",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5767255,
+        "longitude": -7.5995918,
+        "stationId": "5041543037"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 193,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Souk Laâyoun",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5647207,
+        "stationId": "5033743742",
+        "longitude": -7.595365
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marjane Drissia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5627307,
+        "longitude": -7.5940365,
+        "stationId": "5033735918"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 195,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Fourrière BM",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5665096,
+        "stationId": "5033856770",
+        "longitude": -7.5784567
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Ibn Hazem",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5631367,
+        "longitude": -7.5773165,
+        "stationId": "5033861641"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 197,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Cinéma Othmania",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5601458,
+        "longitude": -7.575118,
+        "stationId": "5033876633"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Espace La Pause",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5619753,
+        "longitude": -7.5721188,
+        "stationId": "428932530"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Haouzia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5633811,
+        "stationId": "1848117149",
+        "longitude": -7.5698134
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence Fady",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5523534,
+        "longitude": -7.5531788,
+        "stationId": "5081805192"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Planete House",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5531072,
+        "longitude": -7.5493455,
+        "stationId": "5081812209"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence El Hamd",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5571474,
+        "longitude": -7.54242,
+        "stationId": "5081822684"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pharmacie Dokkala",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5594334,
+        "longitude": -7.5383767,
+        "stationId": "5081773956"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Angle Sahraoui/Joudar",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5655732,
+        "longitude": -7.528913,
+        "stationId": "5081732233"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Tacharouk",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5700437,
+        "stationId": "3843048973",
+        "longitude": -7.5223336
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 206,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pont Autoroute",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5602063,
+        "stationId": "5033764215",
+        "longitude": -7.5945765
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Morgue Ain Chok",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5551835,
+        "longitude": -7.5929448,
+        "stationId": "5033781761"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 208,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Dar Touzani Mohammed VI",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5519944,
+        "longitude": -7.5899457,
+        "stationId": "5033770311"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 209,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lydec Dar Touzani",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5493419,
+        "longitude": -7.5872125,
+        "stationId": "3827125884"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 210,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Olibya (Mohammed VI)",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5466328,
+        "longitude": -7.584251,
+        "stationId": "1415538924"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 211,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Hosna Mohammed VI",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5434771,
+        "longitude": -7.5816372,
+        "stationId": "5033836129"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Espace Sportif Yasmina",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5389303,
+        "longitude": -7.5778407,
+        "stationId": "3424903239"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 213,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Bursa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5371637,
+        "stationId": "5041994387",
+        "longitude": -7.5763768
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 214,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Institut Tarik Ibn Ziad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5352568,
+        "longitude": -7.5746106,
+        "stationId": "5081876414"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Château d'Eau Mediouna",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.4565054,
+        "longitude": -7.5220752,
+        "stationId": "5081943067"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 216,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique Normandie",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5832364,
+        "longitude": -7.6512018,
+        "stationId": "5318405312"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 217,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Ziriab",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5813791,
+        "stationId": "424052421",
+        "longitude": -7.6523872
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 218,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Pâtisserie La Pensée",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5797702,
+        "longitude": -7.6542077,
+        "stationId": "5079791361"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 219,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Complexe Mohammed V",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5835463,
+        "longitude": -7.6492485,
+        "stationId": "5072231850"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École La Prairie",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5784488,
+        "longitude": -7.6560206,
+        "stationId": "5081961377"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 221,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "L'Academie",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5695289,
+        "stationId": "1848544441",
+        "longitude": -7.6679218
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 222,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Polyclinique CNSS Rabia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5670567,
+        "longitude": -7.6676212,
+        "stationId": "5081003950"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Carr. Schneider",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.564814,
+        "longitude": -7.6679681,
+        "stationId": "5081042622"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 224,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Angle Oum Rabia/Naciri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5612433,
+        "longitude": -7.6693127,
+        "stationId": "1122269283"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 225,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Tribunal",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5552305,
+        "stationId": "5081003940",
+        "longitude": -7.6667412
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 226,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Crèche Jeun'âge",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5451624,
+        "longitude": -7.6731874,
+        "stationId": "5040025165"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 227,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Institut Ste. Dominique",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5755398,
+        "longitude": -7.6618601,
+        "stationId": "5318405311"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 228,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Superior Psy.",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5741387,
+        "longitude": -7.6643935,
+        "stationId": "5072143739"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 229,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Handassa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5732548,
+        "stationId": "5072143744",
+        "longitude": -7.6659814
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lissasfa لساسفة",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5313794,
+        "longitude": -7.6743202,
+        "stationId": "5073124816"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 231,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Khozama",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.535762,
+        "stationId": "460028115",
+        "longitude": -7.675102
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 232,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Maréchal",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5943145,
+        "longitude": -7.6193792,
+        "stationId": "5317283256"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ligue Arabe",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5874107,
+        "stationId": "5074972707",
+        "longitude": -7.6213304
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 234,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay El Masjid",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5623764,
+        "stationId": "1416772849",
+        "longitude": -7.6072074
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 235,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Lmasjid",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5619138,
+        "stationId": "3843049008",
+        "longitude": -7.6043963
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 236,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre Feminin",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5618243,
+        "stationId": "459773155",
+        "longitude": -7.6018772
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 237,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "IPUT",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5597087,
+        "longitude": -7.6009006,
+        "stationId": "1414545740"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 238,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bin Lmdoun",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5566396,
+        "stationId": "3843048998",
+        "longitude": -7.600749
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 239,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marché Ain Choc",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.547006,
+        "longitude": -7.5966388,
+        "stationId": "3827125889"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 240,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Mesk Lil",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5444329,
+        "longitude": -7.594686,
+        "stationId": "3843069868"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 241,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café 2000",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5415021,
+        "stationId": "3827126009",
+        "longitude": -7.5937964
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 242,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Kyoto",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5393994,
+        "stationId": "5040047778",
+        "longitude": -7.5997952
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 243,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Bab Andalou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5369759,
+        "longitude": -7.6056974,
+        "stationId": "1414604477"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 244,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Renault QO",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5351897,
+        "stationId": "2422407726",
+        "longitude": -7.6096951
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 245,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Idouar Ice",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5338071,
+        "longitude": -7.6130167,
+        "stationId": "1414604443"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 246,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Grill Antik",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.532311,
+        "longitude": -7.6163491,
+        "stationId": "5026765064"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 247,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mandarouna",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5289024,
+        "stationId": "1700506828",
+        "longitude": -7.6171886
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 248,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Ouadghiri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5637316,
+        "longitude": -7.6331623,
+        "stationId": "5040055711"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 249,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Le Pacha",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5639919,
+        "stationId": "5040056462",
+        "longitude": -7.629089
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 250,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Rond Point Bachkou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5614572,
+        "longitude": -7.6239978,
+        "stationId": "5034558017"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 251,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique Dar Salam",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5620615,
+        "longitude": -7.6187327,
+        "stationId": "3843049012"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 252,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Moulay Abdellah",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5619831,
+        "longitude": -7.6141141,
+        "stationId": "5033681415"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 253,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay El Masjid",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5625083,
+        "stationId": "1416772853",
+        "longitude": -7.6072276
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 254,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lycée Fechtali",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5586304,
+        "longitude": -7.6788925,
+        "stationId": "5054907928"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 255,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Al Ajial",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5576114,
+        "longitude": -7.6815506,
+        "stationId": "5054907933"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 256,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "École Elbennay",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5538935,
+        "longitude": -7.6812137,
+        "stationId": "5054907713"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "C.A. Tensift",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5526888,
+        "stationId": "5032109182",
+        "longitude": -7.6847451
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 258,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Oulfa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5511902,
+        "stationId": "5054971302",
+        "longitude": -7.684483
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Rond Point Chahdia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5467954,
+        "longitude": -7.6809039,
+        "stationId": "5054958834"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée El Fath",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5442354,
+        "longitude": -7.6789666,
+        "stationId": "5054907708"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Zoubir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5409174,
+        "stationId": "5054952750",
+        "longitude": -7.6831552
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Police Gare Routière",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5742836,
+        "longitude": -7.5898387,
+        "stationId": "5047422419"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Derb Milan",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5707213,
+        "stationId": "428612131",
+        "longitude": -7.581365
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 264,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Café Hanan",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5686992,
+        "stationId": "5033737026",
+        "longitude": -7.5844787
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 265,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Drissia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5661659,
+        "stationId": "2187370052",
+        "longitude": -7.588381
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 266,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marjane Drissia",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5628961,
+        "longitude": -7.5940697,
+        "stationId": "5033735919"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 267,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Koréa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5619623,
+        "stationId": "5033704929",
+        "longitude": -7.5983911
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 268,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre Feminin",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5619928,
+        "stationId": "2187370068",
+        "longitude": -7.6020183
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 269,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Lmasjid",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5620528,
+        "stationId": "5040054086",
+        "longitude": -7.6044174
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 270,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Clinique CNSS Inara",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5404647,
+        "longitude": -7.5966563,
+        "stationId": "5040047779"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 271,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Préfecture Police Aïn Chock",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.54133,
+        "longitude": -7.5928817,
+        "stationId": "4987092873"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 272,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mosquée Hosna (Boulevard Qods)",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5437502,
+        "longitude": -7.5835867,
+        "stationId": "5033836130"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 273,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Jamila",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5419557,
+        "stationId": "5079907787",
+        "longitude": -7.5795576
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 274,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hôpital Sofi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6028079,
+        "stationId": "4987071785",
+        "longitude": -7.6332247
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 275,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence Bouaarfa",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.6007696,
+        "longitude": -7.6361226,
+        "stationId": "4987077824"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 276,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Maison des Jeunes Zerktouni",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.600008,
+        "longitude": -7.6390379,
+        "stationId": "4987087174"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 277,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Résidence Shemsi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.592656,
+        "longitude": -7.6372482,
+        "stationId": "5071967697"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 278,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Angle Anfa/Zerktouni",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5912082,
+        "longitude": -7.6362783,
+        "stationId": "5075925093"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 279,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Twin",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5875084,
+        "longitude": -7.632671,
+        "stationId": "5075925101"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 280,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lissasfa Terminus",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5350474,
+        "longitude": -7.6700352,
+        "stationId": "6128450146"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 281,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Al Laymoun",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5400788,
+        "stationId": "6128450147",
+        "longitude": -7.6663378
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 282,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Facultés Terminus",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5458118,
+        "longitude": -7.6571777,
+        "stationId": "2235605392"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 283,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare Casa Sud",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5419432,
+        "stationId": "2238568803",
+        "longitude": -7.6506577
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 284,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Zenith",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5407369,
+        "stationId": "2235605401",
+        "longitude": -7.642815
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 285,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Technopark",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5439103,
+        "stationId": "2235605417",
+        "longitude": -7.638535
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 286,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Panoramique",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.547182,
+        "stationId": "2235605791",
+        "longitude": -7.6318613
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 287,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare Oasis",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5543116,
+        "stationId": "2238483722",
+        "longitude": -7.631175
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 288,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mekka",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.557817,
+        "stationId": "2235605835",
+        "longitude": -7.6298176
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 289,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bachkou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5652389,
+        "stationId": "2235605636",
+        "longitude": -7.6268049
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 290,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Abdelmoumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5705632,
+        "stationId": "2238483732",
+        "longitude": -7.6259326
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 291,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Faculté de Médecine",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5749154,
+        "longitude": -7.6257729,
+        "stationId": "2238447172"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 292,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Wafasalaf",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5798355,
+        "stationId": "2238447186",
+        "longitude": -7.6248702
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 293,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Avenue Hassan II",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5841129,
+        "longitude": -7.6230322,
+        "stationId": "2235605651"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 294,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Mohammed V",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5896176,
+        "longitude": -7.619963,
+        "stationId": "4591181359"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 295,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place des Nations Unies",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5951143,
+        "longitude": -7.6181269,
+        "stationId": "2238405596"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 296,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marche Central",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5945742,
+        "stationId": "2238405493",
+        "longitude": -7.6126568
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 297,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mohamed Diouri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5936875,
+        "stationId": "2238332373",
+        "longitude": -7.6077596
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 298,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "La Résistance",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5934485,
+        "longitude": -7.6031621,
+        "stationId": "2235605416"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 299,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Al Yassir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5929091,
+        "longitude": -7.5969495,
+        "stationId": "2238332192"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 300,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Casa Voyageurs",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5903184,
+        "stationId": "2238332160",
+        "longitude": -7.5919812
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 301,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Boulevard Bahmad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5947641,
+        "longitude": -7.5864433,
+        "stationId": "2235605385"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 302,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Anciens Abattoirs",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5909456,
+        "longitude": -7.5785868,
+        "stationId": "2238332361"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 303,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Grande Ceinture",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5903669,
+        "longitude": -7.5737549,
+        "stationId": "2238332460"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 304,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ali Yata علي يعتة",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5913981,
+        "longitude": -7.569961,
+        "stationId": "2238332442"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 305,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Chouhada",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5884957,
+        "stationId": "2238332082",
+        "longitude": -7.5677696
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 306,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Mohammadi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.585596,
+        "stationId": "2235605686",
+        "longitude": -7.5668241
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 307,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ibn Tachfine",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5807938,
+        "stationId": "2238332258",
+        "longitude": -7.5634191
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 308,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Raja",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.576635,
+        "stationId": "2235605817",
+        "longitude": -7.5485123
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 309,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Forces Auxilliaires",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5746806,
+        "longitude": -7.5394614,
+        "stationId": "2235605840"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 310,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Okba Ibn Nafii",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5728584,
+        "stationId": "2238332466",
+        "longitude": -7.5325919
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 311,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Attacharouk",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5740758,
+        "stationId": "2235605690",
+        "longitude": -7.5243266
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 312,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hôpital Sidi Moumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5765523,
+        "longitude": -7.5177761,
+        "stationId": "4592227167"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 313,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre de Maintenance",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5795003,
+        "longitude": -7.5131017,
+        "stationId": "4592227165"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 314,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mohamed Zefzaf",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5823341,
+        "stationId": "4592227168",
+        "longitude": -7.508656
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 315,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ennassim",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5848473,
+        "stationId": "4592227166",
+        "longitude": -7.5047111
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 316,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sidi Moumen Terminus",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5869421,
+        "longitude": -7.5014958,
+        "stationId": "2235605807"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 317,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sidi Moumen Terminus",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5869734,
+        "longitude": -7.5015474,
+        "stationId": "2248652103"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 318,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ennassim",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5848658,
+        "stationId": "2235605654",
+        "longitude": -7.5047309
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 319,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mohamed Zefzaf",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5823627,
+        "stationId": "2235605622",
+        "longitude": -7.5086783
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 320,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Centre de Maintenance",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5795318,
+        "longitude": -7.5131257,
+        "stationId": "2235605682"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 321,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hôpital Sidi Moumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5765838,
+        "longitude": -7.5177884,
+        "stationId": "2235605643"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 322,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Attacharouk",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5741256,
+        "stationId": "4591435479",
+        "longitude": -7.5243336
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 323,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Okba Ibn Nafii",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5729113,
+        "stationId": "2238332342",
+        "longitude": -7.532559
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 324,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Forces Auxilliaires",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5747292,
+        "longitude": -7.5394513,
+        "stationId": "2235605803"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 325,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Raja",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5766816,
+        "stationId": "2235605454",
+        "longitude": -7.5484674
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 326,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ibn Tachfine",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5808406,
+        "stationId": "2238332260",
+        "longitude": -7.5633887
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 327,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Hay Mohammadi",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5856343,
+        "stationId": "2235605663",
+        "longitude": -7.5667291
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 328,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Chouhada",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5885437,
+        "stationId": "2238332146",
+        "longitude": -7.5676945
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 329,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Ali Yata علي يعتة",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5914584,
+        "longitude": -7.5699596,
+        "stationId": "2235605394"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 330,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Grande Ceinture",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5904273,
+        "longitude": -7.5737597,
+        "stationId": "2235605719"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 331,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Anciens Abattoirs",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5909906,
+        "longitude": -7.578581,
+        "stationId": "2235605431"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 332,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Boulevard Bahmad",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5948302,
+        "longitude": -7.5864897,
+        "stationId": "2235605483"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 333,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Casa Voyageurs",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5903581,
+        "stationId": "2235605694",
+        "longitude": -7.5919484
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 334,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Al Yassir",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5929314,
+        "longitude": -7.5969126,
+        "stationId": "2238332391"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 335,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "La Résistance",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5934792,
+        "longitude": -7.6031545,
+        "stationId": "2235605718"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 336,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mohamed Diouri",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5937216,
+        "stationId": "2238332263",
+        "longitude": -7.6077746
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 337,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Marche Central",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5946005,
+        "stationId": "2235605616",
+        "longitude": -7.6126113
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 338,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place des Nations Unies",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5951228,
+        "longitude": -7.6181684,
+        "stationId": "2235605755"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 339,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Place Mohammed V",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5896439,
+        "longitude": -7.6200111,
+        "stationId": "2238405601"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 340,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Avenue Hassan II",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5841196,
+        "longitude": -7.623066,
+        "stationId": "2235605822"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 341,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Wafasalaf",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5798528,
+        "stationId": "2238447184",
+        "longitude": -7.6249136
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 342,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Faculté de Médecine",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5749271,
+        "longitude": -7.625824,
+        "stationId": "2235605472"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 343,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Abdelmoumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5705527,
+        "stationId": "2235605753",
+        "longitude": -7.6259823
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 344,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Bachkou",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5652425,
+        "stationId": "2235605408",
+        "longitude": -7.6268663
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 345,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Mekka",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5578681,
+        "stationId": "2235605474",
+        "longitude": -7.6298526
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 346,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare Oasis",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.554127,
+        "stationId": "2235605426",
+        "longitude": -7.6313118
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 347,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Panoramique",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5471668,
+        "stationId": "2235605765",
+        "longitude": -7.6318846
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 348,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Technopark",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5439149,
+        "stationId": "2235605467",
+        "longitude": -7.6385539
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 349,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Zenith",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5407714,
+        "stationId": "2235605648",
+        "longitude": -7.6428042
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 350,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Gare Casa Sud",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5419773,
+        "stationId": "2238568797",
+        "longitude": -7.650645
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 351,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Facultés Terminus",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5458466,
+        "longitude": -7.6571703,
+        "stationId": "2235605421"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Al Laymoun",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5400945,
+        "stationId": "6128450133",
+        "longitude": -7.6663597
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 353,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Lissasfa Terminus",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5350512,
+        "longitude": -7.6700775,
+        "stationId": "6128450134"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 368,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Technopark",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5429509,
+        "longitude": -7.640231900000001,
+        "stationId": "5e8cd91957929565952f03e3"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 369,
+      "labels": [
+        "Node"
+      ],
+      "properties": {
+        "stationName": "Sidi Moumen",
+        "cityId": "5e4932f379251839b03d7fa1",
+        "latitude": 33.5848033,
+        "longitude": -7.5193093,
+        "stationId": "5e8cd93157929565952f03e4"
+      }
+    }
+  }
+]
