@@ -2,12 +2,13 @@ package tools;
 
 /**
  * The tools.Edge class implements standard properties and methods for a weighted edge in a directed graph.
- *
+ * <p>
  * Created by Brandon Smock on 6/19/15.
  */
 public class Edge implements Cloneable {
     private String fromNode;
     private String toNode;
+
     private double weight;
 
     public Edge() {

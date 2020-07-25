@@ -2,12 +2,13 @@ package util;
 
 import tools.Edge;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
 /**
  * The Path class implements a path in a weighted, directed graph as a sequence of Edges.
- *
+ * <p>
  * Created by Brandon Smock on 6/18/15.
  */
 public class Path implements Cloneable, Comparable<Path> {
@@ -70,7 +71,7 @@ public class Path implements Cloneable, Comparable<Path> {
 
     public void addFirstNode(String nodeLabel) {
         String firstNode = edges.getFirst().getFromNode();
-        edges.addFirst(new Edge(nodeLabel, firstNode,0));
+        edges.addFirst(new Edge(nodeLabel, firstNode, 0));
     }
 
     public void addFirst(Edge edge) {
@@ -85,7 +86,7 @@ public class Path implements Cloneable, Comparable<Path> {
 
     public void addLastNode(String nodeLabel) {
         String lastNode = edges.getLast().getToNode();
-        edges.addLast(new Edge(lastNode, nodeLabel,0));
+        edges.addLast(new Edge(lastNode, nodeLabel, 0));
     }
 
     public int size() {
@@ -108,6 +109,20 @@ public class Path implements Cloneable, Comparable<Path> {
         sb.append("]");
         return sb.toString();
     }
+
+    public List<String> getlistOfNodes() {
+        List<String> nodes = new ArrayList<>();
+        int numEdges = edges.size();
+        if (numEdges > 0) {
+            for (int i = 0; i < edges.size(); i++) {
+                nodes.add(edges.get(i).getFromNode().toString());
+            }
+
+            nodes.add(edges.getLast().getToNode().toString());
+        }
+        return nodes;
+    }
+
 
 /*    @Override
     public boolean equals(Object o) {
@@ -183,7 +198,7 @@ public class Path implements Cloneable, Comparable<Path> {
             edges.add(edge);
         }
 
-        return new Path(edges,this.totalCost);
+        return new Path(edges, this.totalCost);
     }
 
     public Path cloneTo(int i) {
@@ -203,7 +218,7 @@ public class Path implements Cloneable, Comparable<Path> {
     public Path cloneFrom(int i) {
         LinkedList<Edge> edges = new LinkedList<Edge>();
 
-        for (Edge edge : this.edges.subList(i,this.edges.size())) {
+        for (Edge edge : this.edges.subList(i, this.edges.size())) {
             edges.add(edge.clone());
         }
 

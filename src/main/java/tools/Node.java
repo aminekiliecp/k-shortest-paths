@@ -12,6 +12,7 @@ import java.util.Set;
 
 public class Node {
     protected String label;
+    protected String name;
     protected HashMap<String,Double> neighbors; // adjacency list, with HashMap for each edge weight
 
     public Node() {
@@ -21,6 +22,14 @@ public class Node {
     public Node(String label) {
         this.label = label;
         neighbors = new HashMap();
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getLabel() {
